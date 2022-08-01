@@ -6,7 +6,19 @@
     <description>Recent content in Posts on Ashish Shaji&#39;s DevBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Jul 2022 18:19:41 +0530</lastBuildDate><atom:link href="https://covertgravy.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Aug 2022 20:47:23 +0530</lastBuildDate><atom:link href="https://covertgravy.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git Squash</title>
+      <link>https://covertgravy.github.io/blog/posts/git-squash/</link>
+      <pubDate>Mon, 01 Aug 2022 20:47:23 +0530</pubDate>
+      
+      <guid>https://covertgravy.github.io/blog/posts/git-squash/</guid>
+      <description>Git squash  What is a squash? A squash is a merge commit that merges two or more commits into one.
+Why do I need to squash? A squash is a way to combine multiple commits into one commit. This is useful when you have a large number of commits that you want to merge into one.
+How do I squash? To squash commits, use the following commands:
+git rebase -i &amp;lt;commit-id or HEAD~{number}&amp;gt; Example:</description>
+    </item>
+    
     <item>
       <title>Test post</title>
       <link>https://covertgravy.github.io/blog/posts/testpost/</link>
