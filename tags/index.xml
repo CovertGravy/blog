@@ -5,6 +5,16 @@
     <link>https://covertgravy.github.io/blog/tags/</link>
     <description>Recent content in Tags on Ashish Shaji&#39;s DevBlog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://covertgravy.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Aug 2022 20:47:23 +0530</lastBuildDate><atom:link href="https://covertgravy.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>git</title>
+      <link>https://covertgravy.github.io/blog/tags/git/</link>
+      <pubDate>Mon, 01 Aug 2022 20:47:23 +0530</pubDate>
+      
+      <guid>https://covertgravy.github.io/blog/tags/git/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
